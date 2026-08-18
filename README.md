@@ -23,6 +23,8 @@ A MIMO process-control study of an **interacting two-tank water level system**, 
 ```
 
 Two interacting tanks are connected in series. Inflow `F1` acts as a load disturbance on Tank 1, while outflow valves `F2` (between tanks) and `F3` (tank 2 outlet) are the manipulated variables used to regulate levels `h1` and `h2`.
+<img width="886" height="221" alt="image" src="https://github.com/user-attachments/assets/b454693b-240d-40e9-b1a4-36f668c5ea23" />
+
 
 ---
 
