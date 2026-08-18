@@ -136,8 +136,8 @@ Results compare closed-loop level responses **with and without** the decoupling 
 
 This project models, linearizes, and designs feedback/feedforward controllers for an interacting two-tank MIMO water level system. Two PI tuning methods — Direct Synthesis with ideal decoupling, and Root Locus with pole-zero cancellation — were implemented and compared in Simulink, both showing improved performance when combined with decoupling and disturbance-compensation techniques.
 
-## References
+## Contribution
 
-1. Process Control course lecture slides, Nguyễn Thu Hà.
-2. Process Control textbook, Hoàng Minh Sơn.
-3. Linear Control Theory, Nguyễn Hữu Phước.
+Contributions are welcome! Please feel free to submit issues or pull requests. 
+
+
