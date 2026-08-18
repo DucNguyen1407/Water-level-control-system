@@ -140,6 +140,6 @@ This project models, linearizes, and designs feedback/feedforward controllers fo
 
 ## Contribution
 
-Contributions are welcome! Please feel free to submit issues or pull requests. 
+*Contributions are welcome! Please feel free to submit issues or pull requests.*
 
 
